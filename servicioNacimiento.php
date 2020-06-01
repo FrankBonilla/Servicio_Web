@@ -1,7 +1,7 @@
 <?php
 //incluimos la libreria NuSoap
 require_once "lib/nusoap.php";
-//creamos el objeto
+//creamos el objeto.
 $servicio = new nusoap_server();
 //creamos el name space para hacer referencia a nuestro servicio web
 $nameSpace = "http://localhost:8888/ServiciosWeb/servicioNacimineto.php";
