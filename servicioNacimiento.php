@@ -1,4 +1,4 @@
-<?php
+<?php //ESTE ES UN REPOSITORIO EN GIT
 //incluimos la libreria NuSoap
 require_once "lib/nusoap.php";
 //creamos el objeto.
